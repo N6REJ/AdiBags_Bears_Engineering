@@ -1,9 +1,9 @@
 ## Interface: 90105
-## Title: AdiBags - Shadowlands Blacksmithing
+## Title: AdiBags - Shadowlands Engineering
 ## Version: @project-version@
 ## Author: BearLeeAble
 ## X-License: MIT
-## X-Curse-Project-ID: 446530
+## X-Curse-Project-ID: 545962
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 

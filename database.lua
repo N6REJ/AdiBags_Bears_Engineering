@@ -1,4 +1,4 @@
--- AdiBags_Shadowlands_Blacksmithing - Database
+-- AdiBags_Shadowlands_Engineering - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
@@ -7,8 +7,8 @@ local addonName, addonTable, addon = ...
 -- Create addon table
 local db = {}
 
-db.name = "Shadowlands Blacksmithing"
-db.desc = "Blacksmithing reagents for Shadowlands"
+db.name = "Shadowlands Engineering"
+db.desc = "Engineering reagents for Shadowlands"
 
 -- Filter info
 db.Filters = {
@@ -25,16 +25,7 @@ db.Filters = {
             [171832] = true, -- Sinvyr Ore
             [171833] = true, -- Elethium Ore
             [171840] = true, -- Porous Stone
-            [171841] = true, -- Shaded Stone
         },
-    },
-    ["Enchanting"] = {
-        uiName = "Shadowlands Enchanting",
-        uiDesc = "Reagents for Enchanting in Shadowlands",
-        title = "Enchanting",
-        items = {
-            [172437] = true, -- Enchanted Elethium Bar
-        }
     },
     ["Vendor_Reagents"] = {
         uiName = "Shadowlands Vendor Reagents",
@@ -42,7 +33,10 @@ db.Filters = {
         title = "Vendor Reagents",
         items = {
             -- ID    = true,    --Item name
-            [178787] = true, -- Orboreal shards
+            [183951] = true, -- Immortal shards
+            [180733] = true, -- Luminous Flux
+            [183952] = true, -- Machinist's Oil
+            [177061] = true, -- Twilight Bark
         }
     },
     ["Crafted_Reagents"] = {
@@ -57,7 +51,10 @@ db.Filters = {
             [173381] = true, -- Crafter's Mark I
             [183942] = true, -- Novice Mark II
             [185960] = true, -- Vestige of Origins
-            [307611] = true, -- Shadowghast Ingot
+            [172934] = true, -- Handful of Laestrite Bolts
+            [172935] = true, -- Porous Polishing Abrasive
+            [172936] = true, -- Mortal Coiled Spring
+            [172937] = true, -- Wormfed Gear Assembly
         }
     },
 }

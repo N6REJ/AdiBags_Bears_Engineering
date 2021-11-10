@@ -1,5 +1,5 @@
-# AdiBags Shadowlands Blacksmithing  ![image](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Cooking)  [![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml)  ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
-sorts Blacksmithing reagents into their own categories
+# AdiBags Shadowlands Engineering  ![image](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Engineering)  [![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Engineering/actions/workflows/action.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Engineering/actions/workflows/action.yml)  ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
+Sorts Engineering reagents into their own categories
 
 
 ![settings](https://user-images.githubusercontent.com/1850089/140662196-9e70720c-156f-42fa-b944-0729948f2bf2.png)

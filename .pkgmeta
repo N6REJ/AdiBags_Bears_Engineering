@@ -1,4 +1,4 @@
-package-as: AdiBags_Shadowlands_Blacksmithing
+package-as: AdiBags_Shadowlands_Engineering
 
 ignore:
     - README.md
