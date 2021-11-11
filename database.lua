@@ -40,7 +40,7 @@ db.Filters = {
         }
     },
     ["Crafted_Reagents"] = {
-        uiName = "Shadowlands crafted reagents",
+        uiName = "Shadowlands Crafted Reagents",
         uiDesc = "Reagents made by crafting in Shadowlands",
         title = "Crafted Reagents",
         items = {
