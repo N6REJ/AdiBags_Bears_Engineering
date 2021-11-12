@@ -27,16 +27,19 @@ db.Filters = {
             [171840] = true, -- Porous Stone
         },
     },
-    ["Vendor_Reagents"] = {
-        uiName = "Shadowlands Vendor Reagents",
-        uiDesc = "Reagents from vendors used in Shadowlands",
-        title = "Vendor Reagents",
+    ["Engineering_Reagents"] = {
+        uiName = "Shadowlands Engineering Reagents",
+        uiDesc = "Engineering reagents used in Shadowlands",
+        title = "Engineering Reagents",
         items = {
             -- ID    = true,    --Item name
             [183951] = true, -- Immortal shards
             [180733] = true, -- Luminous Flux
             [183952] = true, -- Machinist's Oil
             [177061] = true, -- Twilight Bark
+            [172935] = true, -- Porous Polishing Abrasive
+            [172936] = true, -- Mortal Coiled Spring
+            [172937] = true, -- Wormfed Gear Assembly
         }
     },
     ["Crafted_Reagents"] = {
@@ -52,9 +55,6 @@ db.Filters = {
             [183942] = true, -- Novice Mark II
             [185960] = true, -- Vestige of Origins
             [172934] = true, -- Handful of Laestrite Bolts
-            [172935] = true, -- Porous Polishing Abrasive
-            [172936] = true, -- Mortal Coiled Spring
-            [172937] = true, -- Wormfed Gear Assembly
         }
     },
 }
