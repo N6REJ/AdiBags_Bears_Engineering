@@ -20,5 +20,3 @@ Sorts Engineering reagents into their own categories
 ![backpack](https://user-images.githubusercontent.com/1850089/140661565-9f6a963f-24d3-47bd-9b51-d052a32f1d03.png)
 
 ![bank](https://user-images.githubusercontent.com/1850089/140662125-e95bd6fa-e45e-437f-80b5-9fb57510eee8.png)
-
-![image](https://img.shields.io/badge/Requires-AdiBags-darkgreen)
