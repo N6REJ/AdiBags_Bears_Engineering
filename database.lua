@@ -57,7 +57,10 @@ db.Filters = {
             [185960] = true, -- Vestige of Origins
             [172934] = true, -- Handful of Laestrite Bolts
             [187831] = true, -- Pure-Air Sail Extensions
-            [187836] = true -- Erratic Genesis Matrix
+            [187836] = true, -- Erratic Genesis Matrix
+            [187707] = true, -- Progenitor Essentia
+            [359674] = true, -- Crafter's Mark of the First Ones
+            [359665] = true -- Crafter's Mark IV
 
         }
     },
