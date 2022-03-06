@@ -25,6 +25,7 @@ db.Filters = {
             [171832] = true, -- Sinvyr Ore
             [171833] = true, -- Elethium Ore
             [171840] = true, -- Porous Stone
+            [187700] = true -- Progenium Ore
         },
     },
     ["Engineering_Reagents"] = {
@@ -55,6 +56,9 @@ db.Filters = {
             [183942] = true, -- Novice Mark II
             [185960] = true, -- Vestige of Origins
             [172934] = true, -- Handful of Laestrite Bolts
+            [187831] = true, -- Pure-Air Sail Extensions
+            [187836] = true -- Erratic Genesis Matrix
+
         }
     },
 }
