@@ -1,9 +1,10 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: AdiBags - Shadowlands Engineering
 ## Version: @project-version@
 ## Author: BearLeeAble
 ## X-License: MIT
 ## X-Curse-Project-ID: 545962
+## X-Wago-ID: BO67VpN3
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 
