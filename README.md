@@ -1,12 +1,12 @@
-# AdiBags Shadowlands Engineering 
+# AdiBags Bears Engineering 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Engineering) 
-[![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Engineering/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Engineerying/actions/workflows/release.yml) 
-[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Shadowlands_Engineering.svg)](https://GitHub.com/N6REJ/AdiBags_Shadowlands_Engineering/releases/)
+![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Engineering) 
+[![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Engineering/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Engineerying/actions/workflows/release.yml) 
+[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Engineering.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Engineering/releases/)
 
-![Shadowlands](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
-![9.2.5](https://img.shields.io/badge/Ready_for-9.2.5-darkgreen)
+![Bears](https://img.shields.io/badge/Supports-Bears-0B68D7)
+![10.0.0](https://img.shields.io/badge/Ready_for-10.0.0-darkgreen)
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-545962-purple)](https://www.curseforge.com/wow/addons/adibags_shadowlands_engineering)
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 

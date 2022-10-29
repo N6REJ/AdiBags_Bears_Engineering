@@ -1,20 +1,24 @@
--- AdiBags_Shadowlands_Engineering - Database
+-- AdiBags_Bears_Engineering - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
-local addonName, addonTable, addon = ...
+local addonName, addonTable = ...;
+
+-- Get locals namse
+local L = addonTable.locales;
+local Expansion = L["SHADOWLANDS"]
 
 -- Create addon table
 local db = {}
 
-db.name = "Shadowlands Engineering"
-db.desc = "Engineering reagents for Shadowlands"
+db.name = "Bears Engineering"
+db.desc = "Engineering reagents for " .. Expansion
 
 -- Filter info
 db.Filters = {
     ["Ore"] = {
-        uiName = "Shadowlands Mining",
-        uiDesc = "Ore found in Shadowlands",
+        uiName = "Bears Mining",
+        uiDesc = "Ore found in " .. Expansion,
         title = "Ore",
         items = {
             -- ID  = true,		--Item name
@@ -29,8 +33,8 @@ db.Filters = {
         },
     },
     ["Engineering_Reagents"] = {
-        uiName = "Shadowlands Engineering Reagents",
-        uiDesc = "Engineering reagents used in Shadowlands",
+        uiName = "Bears Engineering Reagents",
+        uiDesc = "Engineering reagents used in " .. Expansion,
         title = "Engineering Reagents",
         items = {
             -- ID    = true,    --Item name
@@ -44,8 +48,8 @@ db.Filters = {
         }
     },
     ["Crafted_Reagents"] = {
-        uiName = "Shadowlands Crafted Reagents",
-        uiDesc = "Reagents made by crafting in Shadowlands",
+        uiName = "Bears Crafted Reagents",
+        uiDesc = "Reagents made by crafting in " .. Expansion,
         title = "Crafted Reagents",
         items = {
             -- ID    = true,    --Item name
