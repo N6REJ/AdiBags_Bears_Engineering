@@ -5,20 +5,20 @@
 ---
 local addonName, addonTable = ...;
 
--- Get locals namse
+-- Get locales name
 local L = addonTable.locales;
 local Expansion = L["Shadowlands"]
 
 -- Create addon table
 local db = {}
 
-db.name = "Bears Engineering"
+db.name = Expansion .. " Engineering"
 db.desc = "Engineering reagents for " .. Expansion
 
 -- Filter info
 db.Filters = {
     ["Ore"] = {
-        uiName = "Bears Mining",
+        uiName = Expansion .. " Mining",
         uiDesc = "Ore found in " .. Expansion,
         title = "Ore",
         items = {
@@ -34,7 +34,7 @@ db.Filters = {
         },
     },
     ["Engineering_Reagents"] = {
-        uiName = "Bears Engineering Reagents",
+        uiName = Expansion .. " Engineering Reagents",
         uiDesc = "Engineering reagents used in " .. Expansion,
         title = "Engineering Reagents",
         items = {
@@ -49,7 +49,7 @@ db.Filters = {
         }
     },
     ["Crafted_Reagents"] = {
-        uiName = "Bears Crafted Reagents",
+        uiName = Expansion .. " Crafted Reagents",
         uiDesc = "Reagents made by crafting in " .. Expansion,
         title = "Crafted Reagents",
         items = {
