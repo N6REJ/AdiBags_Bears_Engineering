@@ -18,7 +18,7 @@ db.desc = "Engineering reagents for " .. Expansion
 -- Filter info
 db.Filters = {
     ["Ore"] = {
-        uiName = Expansion .. " Mining",
+        uiName = "Bears " .. Expansion .. " Mining",
         uiDesc = "Ore found in " .. Expansion,
         title = "Ore",
         items = {
@@ -34,7 +34,7 @@ db.Filters = {
         },
     },
     ["Engineering_Reagents"] = {
-        uiName = Expansion .. " Engineering Reagents",
+        uiName = "Bears " .. Expansion .. " Engineering Reagents",
         uiDesc = "Engineering reagents used in " .. Expansion,
         title = "Engineering Reagents",
         items = {
@@ -49,7 +49,7 @@ db.Filters = {
         }
     },
     ["Crafted_Reagents"] = {
-        uiName = Expansion .. " Crafted Reagents",
+        uiName = "Bears " .. Expansion .. " Crafted Reagents",
         uiDesc = "Reagents made by crafting in " .. Expansion,
         title = "Crafted Reagents",
         items = {
