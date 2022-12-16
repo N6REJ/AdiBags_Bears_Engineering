@@ -88,7 +88,7 @@ for key, value in ipairs(addonTable.expansion) do
 		AllFilters(db)
 	end
 end
---[[
+
 -- Now process global databases
 for key, value in pairs(addonTable.Globaldbs) do
 	db = addonTable[value]
@@ -96,4 +96,3 @@ for key, value in pairs(addonTable.Globaldbs) do
 		AllFilters(db)
 	end
 end
---]]
