@@ -63,6 +63,15 @@ db.Filters = {
             [198184] = true, -- Handful of Serevite Bolts 2
             [198185] = true, -- Handful of Serevite Bolts 3
         }
+    },
+    ["Artisan"] = {
+        uiName = "Bears " .. Expansion .. " Artisan Engineering items",
+        uiDesc = "Artisan items found in " .. Expansion,
+        title = "Artisan",
+        items = {
+            -- ID,	--Item name
+            [203402] = true, -- Broken Gnomish Voicebox
+        }
     }
 }
 
