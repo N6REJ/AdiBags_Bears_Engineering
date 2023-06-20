@@ -70,7 +70,21 @@ db.Filters = {
         title = "Artisan",
         items = {
             -- ID,	--Item name
-            [203402] = true, -- Broken Gnomish Voicebox
+            -- Old but needed
+            [10498] = true, -- Gyromatic Micro-Adjuster
+            [6219] = true, -- Arclight Spanner
+        }
+    },
+    ["Tools"] = {
+        uiName = "Crafters tools",
+        uiDesc = "Special tools to aid in crafting " .. Expansion,
+        title = "Tools",
+        items = {
+            -- ID  = true,		--Item name
+
+
+            -- old item but useful
+            [132514] = true, -- Auto-Hammer
         }
     }
 }
